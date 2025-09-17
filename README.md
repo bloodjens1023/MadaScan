@@ -7,7 +7,7 @@ Bienvenue dans **FaceMada**, un projet de **reconnaissance faciale** simple et p
 ## 📂 Contenu du projet
 
 - `FaceRecognition/` : Scripts pour détecter et reconnaître les visages.  
-- `FaceMada/' : Script 2 de detection du visage. 👋
+- `FaceMada/` : Script 2 de detection du visage. 👋
 
 Bienvenue dans **FaceMada**, un projet de **reconnaissance faciale** simple et pratique ! 😎✨
 
